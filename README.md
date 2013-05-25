@@ -2,4 +2,4 @@
 
 Contributors:
 
-    - Sky Reynolds (2KY) **[Project Lead]**
+  - Sky Reynolds (2KY) **[Project Lead]**
