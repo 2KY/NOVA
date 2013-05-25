@@ -6,5 +6,5 @@
 
 ### Project Goal(s): 
   
-1 Create a RPG server for San Andreas Multiplayer complete with a working Control Panel, all inter-connected with MySQL.
+8 Create a RPG server for San Andreas Multiplayer complete with a working Control Panel, all inter-connected with MySQL.
 1 Lol
