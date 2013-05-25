@@ -2,8 +2,9 @@
 
 ### Contributors:
 
-  * Sky Reynolds ([2KY](http://forum.sa-mp.com)) **[Project Lead]**
+  * Sky Reynolds ([2KY](http://forum.sa-mp.com/member.php?u=151590)) **[Project Lead]**
 
-### Project Goal: 
+### Project Goal(s): 
   
-  Create a RPG server for San Andreas Multiplayer complete with a working Control Panel, all inter-connected with MySQL.
+1 Create a RPG server for San Andreas Multiplayer complete with a working Control Panel, all inter-connected with MySQL.
+1 Lol
