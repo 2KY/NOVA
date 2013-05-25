@@ -2,7 +2,7 @@
 
 ### Contributors:
 
-  * Sky Reynolds (2KY) **[Project Lead]**
+  * Sky Reynolds ([2KY](http://forum.sa-mp.com)) **[Project Lead]**
 
 ### Project Goal: 
   
