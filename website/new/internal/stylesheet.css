@@ -1,0 +1,188 @@
+.background
+{
+    background-color: #EBEDF5;
+}
+
+.header
+{
+	border-top: 1px solid #D5DADE;
+	border-left: 2px solid #D5DADE;
+	border-right: 2px solid #D5DADE;
+	background-color: #85B9E6;
+	margin-left: .8em;
+	margin-right: .8em;
+	height: 10%;
+}
+
+#headertext
+{
+	text-shadow: 2px 0 0 #000000, -2px 0 0 #000000, 0 2px 0 #000000, 0 -2px 0 #000000, 1px 1px #000000, -1px -1px 0 #000000, 1px -1px 0 #000000, -1px 1px 0 #000000;
+	font-size: 2em;
+	text-align: center;
+	padding-left: -1em;
+	padding-top: .8em;
+	color: #ffffff;
+}
+
+.navigation
+{
+	padding-left: 1em;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	border-radius: 1em;
+	border: 1px solid #C1C6C9;
+	background-color: #D5DADE;
+}
+
+#navigationitem
+{
+	text-align: center;
+	font-family: Verdana;
+	
+	width: auto;
+}
+
+#navigationitem > a
+{
+	text-decoration: none;
+	color: #1B91E0;
+	background-color: #E8EBED;
+	border-radius: 1em;
+	
+	padding-left: 1em;
+	padding-right: 1em;
+}
+
+#navigationitem > a:hover
+{
+	background-color: #fff;
+}
+
+#navigationseparator
+{
+	border-left: 1px solid black;
+}
+
+.content
+{
+	border-bottom: 1px solid #D5DADE;
+	border-left: 2px solid #D5DADE;
+	border-right: 2px solid #D5DADE;
+	background-color: #ffg;
+	margin-left: .8em;
+	margin-right: .8em;
+	height: 84.3%;
+}
+
+#accountarea
+{
+	margin-left: 85%;
+	margin-top: -16.5%;
+	padding-bottom: 1em;
+	border-left: 2px solid #D5DADE;
+	border-bottom: 2px solid #D5DADE;
+	z-index: 100;
+	font-family: Calibri;
+}
+
+#accountheader
+{
+	background-color: #6B6B6B;
+	color: #fff;
+	text-align: center;
+	padding-top: .5em;
+	padding-bottom: .5em;
+}
+
+#accountname
+{
+	font-family: Euphemia;
+	text-align: center;
+	padding-top: 1em;
+	text-transform: capitalize;
+}
+
+#accountavatar
+{
+	text-align: center;
+}
+
+#accountinfo
+{
+	font-family: Verdana;
+	font-size: .8em;
+	text-align: center;
+}
+
+#serverarea
+{
+	margin-top: .11%;
+	margin-right: 85%;
+	padding-bottom: 1em;
+	border-bottom: 2px solid #D5DADE;
+	border-right: 2px solid #D5DADE;
+	width: 20%;
+	z-index: 100;
+	font-family: Calibri;
+}
+
+#serverheader
+{
+	background-color: #6B6B6B;
+	color: #fff;
+	text-align: center;
+	padding-top: .5em;
+	padding-bottom: .5em;
+}
+
+#serverimage
+{
+	padding-bottom: .5em;
+}
+
+#servername
+{
+	padding-top: 1em;
+	text-align: center;
+	padding-bottom: .5em;
+}
+
+#serverstatus
+{
+	font-size: .9em;
+}
+
+#serverconnect
+{
+	color: #000;
+}
+
+#serverconnect > a
+{
+	text-decoration: none;
+	color: #1B91E0;
+}
+
+#eventarea
+{
+	border-top: 2px solid #D5DADE;
+	border-bottom: 2px solid #D5DADE;
+	
+	margin-top: -14.15em;
+	margin-left: 15.3em;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	left: 50%;
+	height: 100px;
+	width: 790px;
+}
+
+#eventheader
+{
+	font-family: Calibri;
+	background-color: #6B6B6B;
+	color: #fff;
+	text-align: center;
+	padding-top: .5em;
+	padding-bottom: .5em;
+}
