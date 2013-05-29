@@ -1,6 +1,6 @@
 .background
 {
-    background-color: #EBEDF5;
+	background-color: #EBEDF5;
 }
 
 .header
@@ -71,14 +71,14 @@
 	background-color: #ffg;
 	margin-left: .8em;
 	margin-right: .8em;
-	height: 84.3%;
+	height: 84.1%;
 }
 
 #accountarea
 {
 	margin-left: 85%;
-	margin-top: -16.5%;
-	padding-bottom: 1em;
+	margin-top: -16.3%;
+	padding-bottom: 0.3em;
 	border-left: 2px solid #D5DADE;
 	border-bottom: 2px solid #D5DADE;
 	z-index: 100;
@@ -112,11 +112,12 @@
 	font-family: Verdana;
 	font-size: .8em;
 	text-align: center;
+	padding-bottom: .3em;
 }
 
 #serverarea
 {
-	margin-top: .11%;
+	margin-top: .15%;
 	margin-right: 85%;
 	padding-bottom: 1em;
 	border-bottom: 2px solid #D5DADE;
@@ -168,13 +169,13 @@
 	border-top: 2px solid #D5DADE;
 	border-bottom: 2px solid #D5DADE;
 	
-	margin-top: -14.15em;
-	margin-left: 15.3em;
+	margin-top: -13.65em;
+	margin-left: 15.6em;
 	padding-top: 1em;
-	padding-bottom: 1em;
+	padding-bottom: 2.2em;
 	left: 50%;
-	height: 100px;
-	width: 790px;
+	height: 10.2em; 
+	width: 50em;
 }
 
 #eventheader
@@ -185,4 +186,41 @@
 	text-align: center;
 	padding-top: .5em;
 	padding-bottom: .5em;
+}
+
+#contentarea
+{
+	margin-top: 3.8em;
+	text-align: center;
+}
+
+#contentheader
+{
+	font-family: Calibri;
+	background-color: #6B6B6B;
+	color: #fff;
+	text-align: center;
+	padding-top: .5em;
+	padding-bottom: .5em;
+	margin-bottom: 10em;
+	margin-top: -3.8em;
+}
+
+#contentarea2
+{
+	text-align: center;
+	margin-top: 3.8em;
+}
+
+#contentheader2
+{
+	font-family: Calibri;
+	background-color: #6B6B6B;
+	color: #fff;
+	text-align: center;
+	padding-top: .5em;
+	padding-bottom: .5em;
+	
+	margin-bottom: 1em;
+	
 }

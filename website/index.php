@@ -1,5 +1,5 @@
 <html>
-    <head>
+	<head>
 		<title>NOVA: Home</title>
 		<link rel="stylesheet" type="text/css" href="internal/stylesheet.css">
 	</head>
@@ -55,8 +55,17 @@
 			<div id="eventheader">
 				<strong>NOVA Tournaments/Events</strong>
 			</div>
-			<!-- Event images are 790x100 --!>
+			<!-- Event images are 800x163 --!>
 			<img src="images/activeevent.png"/>
+		</div>
+		
+		<div id="contentarea">
+			<div id="contentheader">
+				Main Story
+			</div>
+			<div id="contentheader2">
+				In other news..
+			</div>
 		</div>
 	</div>
 	</body>
